@@ -1,3 +1,14 @@
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul {
+    font-family: fantasy;
+}
 .contact-info{
     list-style-type: none;
 }
